@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/ashish-jangid-145819227/" target="blank">
+  <a href="https://https://www.linkedin.com/in/ashish-jangid/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish jangid" height="30" width="40" />
   </a>
-  <a href="https://github.com/ashishjangid" target="blank">
+  <a href="https://github.com/ashishxjangid" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" height="30" width="40" />
   </a>
 </p>
@@ -86,12 +86,12 @@
 
 <h3 align="left">Projects</h3>
 
-Expense Management System | React.js, Node.js, MongoDB, Express.js
-- Developed a full-stack web application using MongoDB, Express.js, React.js, and Node.js (MERN) for tracking and
-managing expenses.
-- Designed a responsive UI with React.js to allow users to add, view, edit, and categorize expenses and credits, with
-dynamic data visualization.
-- Integrated RESTful APIs for efficient data retrieval and processing, ensuring seamless CRUD operations.
+- *Expense Management System | React.js, Node.js, MongoDB, Express.js*
+   Developed a full-stack web application using MongoDB, Express.js, React.js, and Node.js (MERN) for tracking and
+   managing expenses.
+  Designed a responsive UI with React.js to allow users to add, view, edit, and categorize expenses and credits, with
+  dynamic data visualization.
+  Integrated RESTful APIs for efficient data retrieval and processing, ensuring seamless CRUD operations.
 
 - *Music Player Website | ReactJS, API*  
   Built a fully functional music player website using ReactJS and the Spotify API.
