@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ashish-jangid" target="blank">
+  <a href="https://https://www.linkedin.com/in/ashish-jangid-145819227/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish jangid" height="30" width="40" />
   </a>
   <a href="https://github.com/ashishjangid" target="blank">
@@ -86,14 +86,19 @@
 
 <h3 align="left">Projects</h3>
 
+Expense Management System | React.js, Node.js, MongoDB, Express.js
+- Developed a full-stack web application using MongoDB, Express.js, React.js, and Node.js (MERN) for tracking and
+managing expenses.
+- Designed a responsive UI with React.js to allow users to add, view, edit, and categorize expenses and credits, with
+dynamic data visualization.
+- Integrated RESTful APIs for efficient data retrieval and processing, ensuring seamless CRUD operations.
+
 - *Music Player Website | ReactJS, API*  
   Built a fully functional music player website using ReactJS and the Spotify API.
 
 - *E-Commerce Website | HTML, CSS, JavaScript*  
   Created a fully functional and visually appealing e-commerce website using HTML, CSS, and JavaScript, featuring product listings, a shopping cart, and a responsive design.
 
-- *AI Chatbot Using Custom-Trained Data*  
-  BotSmart is a custom-trained AI conversational agent designed using the Botpress platform to create an intelligent chatbot.
 
 <h3 align="left">Academic and Extracurricular Achievements</h3>
 
