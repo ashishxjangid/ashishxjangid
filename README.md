@@ -87,11 +87,7 @@
 <h3 align="left">Projects</h3>
 
 - *Expense Management System | React.js, Node.js, MongoDB, Express.js*
-   Developed a full-stack web application using MongoDB, Express.js, React.js, and Node.js (MERN) for tracking and
-   managing expenses.
-  Designed a responsive UI with React.js to allow users to add, view, edit, and categorize expenses and credits, with
-  dynamic data visualization.
-  Integrated RESTful APIs for efficient data retrieval and processing, ensuring seamless CRUD operations.
+  Developed a full-stack web application using MongoDB, Express.js, React.js, and Node.js (MERN) for tracking and managing expenses.
 
 - *Music Player Website | ReactJS, API*  
   Built a fully functional music player website using ReactJS and the Spotify API.
